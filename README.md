@@ -1,6 +1,7 @@
 # Portafolio: Modelos No Paramétricos y de Regresión Lineal
 
-Este repositorio recopila tareas, prácticas y proyectos desarrollados a lo largo del semestre en la asignatura *Modelos No Paramétricos y de Regresión Lineal*, bajo la guía del profesor Gonzalo Pérez (UNAM).  
+Este repositorio recopila tareas, prácticas y proyectos desarrollados a lo largo del semestre en la asignatura *Modelos No Paramétricos y de Regresión Lineal*, bajo la guía del profesor Gonzalo Pérez (UNAM). 
+
 El objetivo es aplicar y reforzar técnicas estadísticas para el análisis de datos, cubriendo desde el ajuste e interpretación de modelos de regresión hasta métodos de estimación no paramétrica.
 
 ## Contenido principal
